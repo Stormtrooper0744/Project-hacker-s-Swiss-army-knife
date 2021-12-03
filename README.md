@@ -1,2 +1,2 @@
 # Project-hacker-s-Swiss-army-knife
-To make a Swiss army knife of to dox ,Pirate and or ddos
+To make a Swiss army knife of to make a powerful Multi-Tool allowing other functionalities such as DDoS attacks, Port Scanning and IP Lookup.
